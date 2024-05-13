@@ -1,0 +1,6 @@
+/node_modules/
+/LICENSE
+/package-lock.json
+/.idea/
+/config.json
+/projects/*
