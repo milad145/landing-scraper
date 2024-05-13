@@ -18,3 +18,11 @@
 
 # Results
 - `projects` directory will be created during the scraping. you can find your project there.
+
+# Last Step
+- inside of your project you can find `data.php` file
+- this file is like this
+```
+<? $baseUrl='http://localhost/' ?>
+```
+- edit this file and replace the localhost with your host domain
